@@ -1,0 +1,6 @@
+streamlit>=1.42
+langgraph>=1.0
+mlflow>=3.0
+google-genai>=1.0
+supabase>=2.0
+python-dotenv>=1.0
